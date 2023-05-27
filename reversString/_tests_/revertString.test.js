@@ -1,4 +1,4 @@
-import {revertString} from './reversString.js';
+import {revertString} from '../reversString.js';
 
 describe('Add -cтрока get a reverse -акортc', () => {
   it('add -строка get a reverse -акортс', () => {
